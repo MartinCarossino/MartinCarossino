@@ -14,6 +14,7 @@ Soy **Programador en Sistemas** y estudiante de la Tecnicatura Superior en Progr
     ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Softwares y Herramientas**:
+
     ![SQL Developer](https://img.shields.io/badge/SQL%20Developer%20-%23000000.svg?style=for-the-badge&logo=oracle&logoColor=white)
     ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -21,7 +22,6 @@ Soy **Programador en Sistemas** y estudiante de la Tecnicatura Superior en Progr
 
 ## 📊 GitHub Stats
 
-![Martín's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinCarossino&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCarossino&layout=compact&theme=radical)
 
 ## 🎓 Educación
@@ -31,8 +31,8 @@ Soy **Programador en Sistemas** y estudiante de la Tecnicatura Superior en Progr
 - **Gestión y administración informática**, Empresa Textil
 
 ## 📫 Contacto
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/martincarossino/)
-- ![Gmail](https://img.shields.io/badge/Gmail%20-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) [Gmail](mailto:martingcarossino@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martincarossino/)
+- [![Gmail](https://img.shields.io/badge/Gmail%20-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martingcarossino@gmail.com)
 
 ---
 
