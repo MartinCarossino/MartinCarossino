@@ -26,10 +26,7 @@ Soy **estudiante de la Tecnicatura Universitaria en Programación** en la UTN de
 
 ## 🌟 Proyectos Destacados
 
-- **[![Fit Fusion](https://img.shields.io/badge/Fit%20Fusion%20-%23FF6347.svg?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/Caudillo8/proyecto_gym)**: Tecnologías usadas:
-  
-  ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- **[![Fit Fusion](https://img.shields.io/badge/Fit%20Fusion%20-%23FF6347.svg?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/Caudillo8/proyecto_gym)**
 
 ## 🎓 Educación
 - **Tecnicatura Superior en Programación**, UTN Haedo (Último cuatrimestre)
