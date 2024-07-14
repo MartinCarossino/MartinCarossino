@@ -14,7 +14,14 @@ Soy **Programador en Sistemas** y estudiante de la Tecnicatura Superior en Progr
     ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Herramientas**:
-    - SQL Developer
+
+    ![SQL Developer](https://img.shields.io/badge/SQL%20Developer%20-%23000000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+- **Softwares y Herramientas**:
+
+    ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🎓 Educación
 - **Tecnicatura Superior en Programación**, UTN Haedo (Último cuatrimestre)
@@ -29,3 +36,4 @@ Soy **Programador en Sistemas** y estudiante de la Tecnicatura Superior en Progr
 ---
 
 ¡Gracias por visitar mi perfil!
+
