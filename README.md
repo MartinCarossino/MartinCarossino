@@ -26,7 +26,11 @@ Soy **Programador en Sistemas** y estudiante de la Tecnicatura Superior en Progr
 
 ## 🌟 Proyectos Destacados
 
-- **[Proyecto Laboratorio IV](https://github.com/Caudillo8/proyecto_gym)**: Fit Fusion. Tecnologías usadas: PHP, HTML.
+- **[Fit Fusion](https://github.com/Caudillo8/proyecto_gym)**: Tecnologías usadas:
+  
+  ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ## 🎓 Educación
 - **Tecnicatura Superior en Programación**, UTN Haedo (Último cuatrimestre)
@@ -35,7 +39,7 @@ Soy **Programador en Sistemas** y estudiante de la Tecnicatura Superior en Progr
 - **Gestión y administración informática**, Empresa Textil
 
 ## 📄 Enlace al CV
-- [Descargar Mi CV](https://drive.google.com/file/d/1iHJUSk06GGRRE9ARp2R6QRGC1bW56xyI/view?usp=drive_link)
+- [![Descargar CV](https://img.shields.io/badge/Descargar%20CV%20-%23FF0000.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1iHJUSk06GGRRE9ARp2R6QRGC1bW56xyI/view?usp=drive_link)
 
 ## 📫 Contacto
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martincarossino/)
