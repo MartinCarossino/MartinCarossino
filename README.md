@@ -1,6 +1,6 @@
 # ¡Hola! Soy Martín Carossino
 
-Soy **Programador en Sistemas** y estudiante de la Tecnicatura Superior en Programación en la UTN de Haedo. Trabajo en la gestión y administración informática en una empresa textil, donde soy responsable de la entrada de datos como artículos de ropa y precios en los sistemas informáticos.
+Soy **estudiante de la Tecnicatura Superior en Programación** en la UTN de Haedo. Trabajo en la gestión y administración informática en una empresa textil, donde soy responsable de la entrada de datos como artículos de ropa y precios en los sistemas informáticos.
 
 ## 🛠 Tecnologías y Herramientas
 
