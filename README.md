@@ -26,16 +26,16 @@
 ## 🏅 Certificaciones
 
 - **Learn HTML and CSS from Beginning to Advanced**  
-  [Ver Certificación](https://www.udemy.com/certificate/UC-1a12ea6c-45e3-41b3-95cc-cff286aa3dd7/)
+  ![Udemy Icon](https://img.icons8.com/color/48/000000/udemy.png) [Ver Certificación](https://www.udemy.com/certificate/UC-1a12ea6c-45e3-41b3-95cc-cff286aa3dd7/)
 
 - **Learn PHP and MySQL for Web Application and Web Development**  
-  [Ver Certificación](https://www.udemy.com/certificate/UC-37b62e71-c2be-424f-882d-704ddec910d7/)
+  ![Udemy Icon](https://img.icons8.com/color/48/000000/udemy.png) [Ver Certificación](https://www.udemy.com/certificate/UC-37b62e71-c2be-424f-882d-704ddec910d7/)
 
 - **JavaScript And PHP And Python Programming Complete Course**  
-  [Ver Certificación](https://www.udemy.com/certificate/UC-d156e32e-9e50-4940-b1db-6de842965cb6/)
+  ![Udemy Icon](https://img.icons8.com/color/48/000000/udemy.png) [Ver Certificación](https://www.udemy.com/certificate/UC-d156e32e-9e50-4940-b1db-6de842965cb6/)
 
 - **Fundamental Course in Web Frameworks**  
-  [Ver Certificación](https://www.udemy.com/certificate/UC-8c11f146-6291-4901-aed0-7c5b8cccc837/)
+  ![Udemy Icon](https://img.icons8.com/color/48/000000/udemy.png) [Ver Certificación](https://www.udemy.com/certificate/UC-8c11f146-6291-4901-aed0-7c5b8cccc837/)
 
 ## 💼 Experiencia
 - **Gestión y administración informática**, Empresa Textil
