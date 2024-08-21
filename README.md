@@ -1,7 +1,6 @@
 # ¡Hola! Soy Martín Carossino
 
-Soy **estudiante de la Tecnicatura Universitaria en Programación** en la UTN de Haedo. Trabajo en la gestión y administración informática en una empresa textil, donde soy responsable de la entrada de datos como artículos de ropa y precios en los sistemas informáticos.
-
+Soy **estudiante de la Tecnicatura Universitaria en Programación** en la UTN de Haedo. Trabajo en la gestión y administración informática en una empresa textil.
 ## 🛠 Tecnologías y Herramientas
 
 - **Lenguajes**:
@@ -10,6 +9,7 @@ Soy **estudiante de la Tecnicatura Universitaria en Programación** en la UTN de
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -29,7 +29,21 @@ Soy **estudiante de la Tecnicatura Universitaria en Programación** en la UTN de
 - **[![Fit Fusion](https://img.shields.io/badge/Fit%20Fusion%20-%23FF6347.svg?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/Caudillo8/proyecto_gym)**
 
 ## 🎓 Educación
-- **Tecnicatura Superior en Programación**, UTN Haedo (Último cuatrimestre)
+- **Tecnicatura Universitaria en Programación**, UTN Haedo (Último cuatrimestre)
+
+## 🏅 Certificaciones
+
+- **Learn HTML and CSS from Beginning to Advanced**  
+  [Ver Certificación](https://www.udemy.com/certificate/UC-1a12ea6c-45e3-41b3-95cc-cff286aa3dd7/)
+
+- **Learn PHP and MySQL for Web Application and Web Development**  
+  [Ver Certificación](https://www.udemy.com/certificate/UC-37b62e71-c2be-424f-882d-704ddec910d7/)
+
+- **JavaScript And PHP And Python Programming Complete Course**  
+  [Ver Certificación](https://www.udemy.com/certificate/UC-d156e32e-9e50-4940-b1db-6de842965cb6/)
+
+- **Fundamental Course in Web Frameworks**  
+  [Ver Certificación](https://www.udemy.com/certificate/UC-8c11f146-6291-4901-aed0-7c5b8cccc837/)
 
 ## 💼 Experiencia
 - **Gestión y administración informática**, Empresa Textil
