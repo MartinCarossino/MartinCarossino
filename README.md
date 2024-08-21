@@ -1,7 +1,6 @@
 # ¡Hola! Soy Martín Carossino
 
-Soy **estudiante de la Tecnicatura Universitaria en Programación** en la UTN de Haedo. Trabajo en la gestión y administración informática en una empresa textil.
-## 🛠 Tecnologías y Herramientas
+🎓 **estudiante de la Tecnicatura Universitaria en Programación** en la UTN de Haedo.
 
 - **Lenguajes**:
 
@@ -23,9 +22,6 @@ Soy **estudiante de la Tecnicatura Universitaria en Programación** en la UTN de
 ## 🌟 Proyectos Destacados
 
 - **[![Fit Fusion](https://img.shields.io/badge/Fit%20Fusion%20-%23FF6347.svg?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/Caudillo8/proyecto_gym)**
-
-## 🎓 Educación
-- **Tecnicatura Universitaria en Programación**, UTN Haedo (Último cuatrimestre)
 
 ## 🏅 Certificaciones
 
