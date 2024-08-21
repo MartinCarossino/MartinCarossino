@@ -23,7 +23,7 @@
 
 - **[![Fit Fusion](https://img.shields.io/badge/Fit%20Fusion%20-%23FF6347.svg?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/Caudillo8/proyecto_gym)**
 
-## 🏅 Certificaciones
+## 🏅 Certificaciones Udemy
 
 - **Learn HTML and CSS from Beginning to Advanced**  
   [Ver Certificación](https://www.udemy.com/certificate/UC-1a12ea6c-45e3-41b3-95cc-cff286aa3dd7/)
