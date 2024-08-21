@@ -19,7 +19,7 @@
     ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌟 Proyectos Destacados
+## 🌟 Proyecto Destacado
 
 - **[![Fit Fusion](https://img.shields.io/badge/Fit%20Fusion%20-%23FF6347.svg?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/Caudillo8/proyecto_gym)**
 
