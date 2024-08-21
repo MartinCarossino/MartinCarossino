@@ -1,6 +1,6 @@
 # ¡Hola! Soy Martín Carossino
 
-🎓 **estudiante de la Tecnicatura Universitaria en Programación** en la UTN de Haedo.
+🎓 **Estudiante de la Tecnicatura Universitaria en Programación** en la UTN de Haedo.
 
 - **Lenguajes**:
 
