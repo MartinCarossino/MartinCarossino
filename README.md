@@ -23,21 +23,19 @@
 
 - **[![Fit Fusion](https://img.shields.io/badge/Fit%20Fusion%20-%23FF6347.svg?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/Caudillo8/proyecto_gym)**
 
-
 ## 🏅 Certificaciones
 
 - **Learn HTML and CSS from Beginning to Advanced**  
-  ![Udemy Icon](https://img.icons8.com/ios-filled/50/ffffff/udemy.png) [Ver Certificación](https://www.udemy.com/certificate/UC-1a12ea6c-45e3-41b3-95cc-cff286aa3dd7/)
+  [Ver Certificación](https://www.udemy.com/certificate/UC-1a12ea6c-45e3-41b3-95cc-cff286aa3dd7/)
 
 - **Learn PHP and MySQL for Web Application and Web Development**  
-  ![Udemy Icon](https://img.icons8.com/ios-filled/50/ffffff/udemy.png) [Ver Certificación](https://www.udemy.com/certificate/UC-37b62e71-c2be-424f-882d-704ddec910d7/)
+  [Ver Certificación](https://www.udemy.com/certificate/UC-37b62e71-c2be-424f-882d-704ddec910d7/)
 
 - **JavaScript And PHP And Python Programming Complete Course**  
-  ![Udemy Icon](https://img.icons8.com/ios-filled/50/ffffff/udemy.png) [Ver Certificación](https://www.udemy.com/certificate/UC-d156e32e-9e50-4940-b1db-6de842965cb6/)
+  [Ver Certificación](https://www.udemy.com/certificate/UC-d156e32e-9e50-4940-b1db-6de842965cb6/)
 
 - **Fundamental Course in Web Frameworks**  
-  ![Udemy Icon](https://img.icons8.com/ios-filled/50/ffffff/udemy.png) [Ver Certificación](https://www.udemy.com/certificate/UC-8c11f146-6291-4901-aed0-7c5b8cccc837/)
-
+  [Ver Certificación](https://www.udemy.com/certificate/UC-8c11f146-6291-4901-aed0-7c5b8cccc837/)
 
 ## 💼 Experiencia
 - **Gestión y administración informática**, Empresa Textil
