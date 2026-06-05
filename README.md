@@ -5,6 +5,8 @@
 
 🏙️ Buenos Aires, Argentina &nbsp;|&nbsp; 💼 Bianchi Service &nbsp;|&nbsp; 📊 Orientado a Data Analytics
 
+![Visitas](https://komarev.com/ghpvc/?username=MartinCarossino&color=6366f1&style=for-the-badge&label=Visitas+al+perfil)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martincarossino/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martingcarossino@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%236366f1.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/MartinCarossino)
@@ -62,7 +64,7 @@ ORDER BY experiencia DESC;
 
 ## 🚀 Proyectos destacados
 
-### 📊 [Cacao Analytics](https://github.com/MartinCarossino/cacao-analytics)
+### 📊 [Cacao Analytics](https://github.com/MartinCarossino/cacao_analytics)
 Dashboard de análisis estadístico de recepción de cacao con datos simulados de proveedores.
 Incluye visualizaciones con Chart.js, análisis de calidad y tendencias por lote.
 `PHP` `MySQL` `Chart.js` `Bootstrap` `Estadística aplicada`
@@ -104,8 +106,14 @@ Sitio web personal orientado a roles de Data Analytics.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MartinCarossino&theme=tokyonight&hide_border=true&locale=es)
-![Trofeos](https://github-profile-trophy.vercel.app/?username=MartinCarossino&theme=tokyonight&no-frame=true&row=1)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MartinCarossino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MartinCarossino&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+![Trofeos](https://github-profile-trophy.vercel.app/?username=MartinCarossino&theme=tokyonight&no-frame=true&row=1&column=6)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MartinCarossino&theme=tokyo-night&hide_border=true)
+
 </div>
 
 ---
