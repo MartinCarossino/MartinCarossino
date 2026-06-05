@@ -62,7 +62,7 @@ ORDER BY experiencia DESC;
 
 ## 🚀 Proyectos destacados
 
-### 📊 [Cacao Analytics](https://github.com/MartinCarossino/cacao_analytics)
+### 📊 [Cacao Analytics](https://github.com/MartinCarossino/cacao-analytics)
 Dashboard de análisis estadístico de recepción de cacao con datos simulados de proveedores.
 Incluye visualizaciones con Chart.js, análisis de calidad y tendencias por lote.
 `PHP` `MySQL` `Chart.js` `Bootstrap` `Estadística aplicada`
