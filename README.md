@@ -106,13 +106,9 @@ Sitio web personal orientado a roles de Data Analytics.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MartinCarossino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MartinCarossino&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=MartinCarossino&theme=tokyonight&no-frame=true&row=1&column=6)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MartinCarossino&theme=tokyo-night&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MartinCarossino&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true)
 
 </div>
 
