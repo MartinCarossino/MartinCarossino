@@ -105,7 +105,8 @@ Sitio web personal orientado a roles de Data Analytics.
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MartinCarossino&theme=tokyonight&hide_border=true&locale=es)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MartinCarossino&theme=tokyo-night&hide_border=true)
+![Visitas](https://komarev.com/ghpvc/?username=MartinCarossino&color=6366f1&style=for-the-badge&label=Visitas+al+perfil)
 </div>
 
 ---
