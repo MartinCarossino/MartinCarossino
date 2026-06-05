@@ -104,7 +104,7 @@ Sitio web personal orientado a roles de Data Analytics.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinCarossino&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinCarossino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCarossino&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
