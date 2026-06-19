@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy desarrollador backend con fuerte orientación a bases de datos y en transición hacia **Data Analytics**.
 Trabajo en el desarrollo y mantenimiento de un sistema de gestión interno para un laboratorio de metrología,
@@ -33,7 +33,7 @@ ORDER BY experiencia DESC;
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 **Backend & Base de datos**
 
@@ -63,36 +63,23 @@ ORDER BY experiencia DESC;
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🎯 [Scoring de Riesgo Crediticio](https://github.com/MartinCarossino/scoring-riesgo-crediticio)
+### [Scoring de Riesgo Crediticio](https://github.com/MartinCarossino/scoring-riesgo-crediticio)
 Modelo de regresión logística para predecir el riesgo de default en clientes de tarjetas de crédito (dataset UCI, 30.000 clientes).
 Incluye limpieza de datos, EDA con interpretación estadística, evaluación con métricas más allá de accuracy, y análisis de coeficientes. Notebook 100% reproducible en Google Colab.
 `Python` `Pandas` `scikit-learn` `Matplotlib` `Estadística aplicada`
 
 ---
 
-### 📊 [Cacao Analytics](https://github.com/MartinCarossino/cacao_analytics)
+### [Cacao Analytics](https://github.com/MartinCarossino/cacao_analytics)
 Dashboard de análisis estadístico de recepción de cacao con datos simulados de proveedores.
 Incluye visualizaciones con Chart.js, análisis de calidad y tendencias por lote.
 `PHP` `MySQL` `Chart.js` `Bootstrap` `Estadística aplicada`
 
 ---
 
-### 🔬 Bianchi Service *(privado)*
-Sistema interno de gestión para laboratorio de metrología y calibración en producción real.
-Módulos de facturación, remitos, calibración de equipos, dashboards analíticos y reportes.
-`PHP` `MySQL` `Bootstrap` `Chart.js` `Power BI`
-
----
-
-### 🌐 Portfolio personal *(en desarrollo)*
-Sitio web personal orientado a roles de Data Analytics.
-`HTML` `CSS` `JavaScript` `SVG animado`
-
----
-
-## 📚 Formación académica
+## Formación académica
 
 🎓 **Tecnicatura Universitaria en Programación** — UTN  
 📊 **Diplomatura en Bases de Datos** — UTN  
@@ -101,7 +88,7 @@ Sitio web personal orientado a roles de Data Analytics.
 
 ---
 
-## 🏅 Certificaciones
+## Certificaciones
 
 - [Learn HTML and CSS from Beginning to Advanced](https://www.udemy.com/certificate/UC-1a12ea6c-45e3-41b3-95cc-cff286aa3dd7/)
 - [Learn PHP and MySQL for Web Application and Web Development](https://www.udemy.com/certificate/UC-37b62e71-c2be-424f-882d-704ddec910d7/)
@@ -110,11 +97,9 @@ Sitio web personal orientado a roles de Data Analytics.
 
 ---
 
-## 📈 Estadísticas GitHub
+## Estadísticas GitHub
 
 <div align="center">
-
-![Trofeos](https://github-profile-trophy.vercel.app/?username=MartinCarossino&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MartinCarossino&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true)
 
