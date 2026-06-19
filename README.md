@@ -53,6 +53,7 @@ ORDER BY experiencia DESC;
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Herramientas**
 
@@ -63,6 +64,13 @@ ORDER BY experiencia DESC;
 ---
 
 ## 🚀 Proyectos destacados
+
+### 🎯 [Scoring de Riesgo Crediticio](https://github.com/MartinCarossino/scoring-riesgo-crediticio)
+Modelo de regresión logística para predecir el riesgo de default en clientes de tarjetas de crédito (dataset UCI, 30.000 clientes).
+Incluye limpieza de datos, EDA con interpretación estadística, evaluación con métricas más allá de accuracy, y análisis de coeficientes. Notebook 100% reproducible en Google Colab.
+`Python` `Pandas` `scikit-learn` `Matplotlib` `Estadística aplicada`
+
+---
 
 ### 📊 [Cacao Analytics](https://github.com/MartinCarossino/cacao_analytics)
 Dashboard de análisis estadístico de recepción de cacao con datos simulados de proveedores.
