@@ -104,9 +104,3 @@ Incluye visualizaciones con Chart.js, análisis de calidad y tendencias por lote
 ![GitHub Streak](https://streak-stats.demolab.com?user=MartinCarossino&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true)
 
 </div>
-
----
-
-<div align="center">
-  <i>⭐ "Los datos no mienten, pero hay que saber hacerles las preguntas correctas."</i>
-</div>
