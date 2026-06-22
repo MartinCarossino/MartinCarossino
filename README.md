@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hola, soy Martín Carossino 👋
-### Backend Developer & Data Analyst en formación
+# Hola, soy Martín Carossino
 
 🏙️ Buenos Aires, Argentina &nbsp;|&nbsp; 💼 Bianchi Service &nbsp;|&nbsp; 📊 Orientado a Data Analytics
 
@@ -108,10 +107,10 @@ Incluye visualizaciones con Chart.js, análisis de Pareto por proveedor y KPIs e
 
 ## Formación académica
 
-🎓 **Tecnicatura Universitaria en Programación** — UTN  
-📊 **Diplomatura en Bases de Datos** — UTN  
-⚙️ **Diplomatura en Data Engineering** — UTN  
-📈 **Data Analytics** — UTN *(en curso)*
+**Tecnicatura Universitaria en Programación** — UTN  
+**Diplomatura en Bases de Datos** — UTN  
+**Diplomatura en Data Engineering** — UTN  
+**Data Analytics** — UTN *(en curso)*
 
 ---
 
