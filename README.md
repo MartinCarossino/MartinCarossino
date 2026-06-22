@@ -54,6 +54,8 @@ ORDER BY experiencia DESC;
 ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Herramientas**
 
@@ -65,6 +67,15 @@ ORDER BY experiencia DESC;
 
 ## Proyectos destacados
 
+### [Análisis de Películas TMDB](https://github.com/MartinCarossino/analisis-peliculas-tmdb)
+Cruce real de dos fuentes (datos financieros y reparto/equipo) sobre 4.800+ películas, con el mismo
+join verificado en pandas y en SQL puro vía SQLAlchemy. Incluye encoding categórico (OneHotEncoder,
+OrdinalEncoder) y un análisis de ROI por género donde la mediana cuenta una historia muy distinta
+a la del promedio, distorsionado por outliers extremos. Notebook 100% reproducible en Google Colab.
+`Python` `Pandas` `SQLAlchemy` `scikit-learn` `Seaborn`
+
+---
+
 ### [Scoring de Riesgo Crediticio](https://github.com/MartinCarossino/scoring-riesgo-crediticio)
 Modelo de regresión logística para predecir el riesgo de default en clientes de tarjetas de crédito (dataset UCI, 30.000 clientes).
 Incluye limpieza de datos, EDA con interpretación estadística, evaluación con métricas más allá de accuracy, y análisis de coeficientes. Notebook 100% reproducible en Google Colab.
@@ -72,9 +83,25 @@ Incluye limpieza de datos, EDA con interpretación estadística, evaluación con
 
 ---
 
-### [Cacao Analytics](https://github.com/MartinCarossino/cacao_analytics)
+### [Análisis de Ventas Globales de Videojuegos](https://github.com/MartinCarossino/analisis-ventas-videojuegos)
+EDA sobre 16.000+ títulos (1980–2016): qué géneros y plataformas dominaron, diferencias regionales
+de mercado, y cómo una estrategia de catálogo chico pero exitoso puede superar al volumen puro.
+Incluye limpieza diferencial de nulos, agregaciones con groupby/agg y visualización en escala logarítmica.
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+---
+
+### [Índice del Tanque Lleno](https://github.com/MartinCarossino/indice-tanque-lleno)
+¿Cuánto vale un día de trabajo en nafta? Análisis del poder adquisitivo real en Argentina (2017–2026)
+cruzando datos de Secretaría de Energía, INDEC, SMVM y BCRA. El precio nominal se multiplicó por 83,
+pero en términos reales la nafta resulta más barata que hace nueve años.
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+---
+
+### [Cacao Analytics](https://github.com/MartinCarossino/cacao-analytics)
 Dashboard de análisis estadístico de recepción de cacao con datos simulados de proveedores.
-Incluye visualizaciones con Chart.js, análisis de calidad y tendencias por lote.
+Incluye visualizaciones con Chart.js, análisis de Pareto por proveedor y KPIs en tiempo real vía AJAX.
 `PHP` `MySQL` `Chart.js` `Bootstrap` `Estadística aplicada`
 
 ---
