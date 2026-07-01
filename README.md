@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martincarossino/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martingcarossino@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%236366f1.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/MartinCarossino)
-[![CV](https://img.shields.io/badge/Descargar%20CV-%234285F4.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1iHJUSk06GGRRE9ARp2R6QRGC1bW56xyI/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/Descargar%20CV-%234285F4.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1qY96-g3mqr-EHiGUtNMQuSg1Ee6ygEQN/view?usp=drive_link)
 
 </div>
 
