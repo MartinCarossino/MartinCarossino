@@ -66,13 +66,10 @@ ORDER BY experiencia DESC;
 
 ## Proyectos destacados
 
-### [EDA de Astronautas y Misiones Espaciales](https://github.com/MartinCarossino/analisis-astronautas-nasa)
-EDA sobre 1.277 misiones espaciales (1961–2019), con foco en pensamiento estadístico aplicado: una
-distribución bimodal en la duración de las misiones explicada por completo al separar por tipo (vuelo
-corto vs. estación espacial), un test de chi-cuadrado que descarta una asociación aparente entre perfil
-militar/civil y tipo de misión, y cómo el fin del programa de transbordadores de EE.UU. (2011) se
-refleja con claridad en los datos.
-`Python` `Pandas` `Seaborn` `SciPy` `Estadística aplicada`
+### [Scoring de Riesgo Crediticio](https://github.com/MartinCarossino/scoring-riesgo-crediticio)
+Modelo de regresión logística para predecir el riesgo de default en clientes de tarjetas de crédito (dataset UCI, 30.000 clientes).
+Incluye limpieza de datos, EDA con interpretación estadística, evaluación con métricas más allá de accuracy, y análisis de coeficientes. Notebook 100% reproducible en Google Colab.
+`Python` `Pandas` `scikit-learn` `Matplotlib` `Estadística aplicada`
 
 ---
 
@@ -85,18 +82,13 @@ a la del promedio, distorsionado por outliers extremos. Notebook 100% reproducib
 
 ---
 
-### [Scoring de Riesgo Crediticio](https://github.com/MartinCarossino/scoring-riesgo-crediticio)
-Modelo de regresión logística para predecir el riesgo de default en clientes de tarjetas de crédito (dataset UCI, 30.000 clientes).
-Incluye limpieza de datos, EDA con interpretación estadística, evaluación con métricas más allá de accuracy, y análisis de coeficientes. Notebook 100% reproducible en Google Colab.
-`Python` `Pandas` `scikit-learn` `Matplotlib` `Estadística aplicada`
-
----
-
-### [Análisis de Ventas Globales de Videojuegos](https://github.com/MartinCarossino/analisis-ventas-videojuegos)
-EDA sobre 16.000+ títulos (1980–2016): qué géneros y plataformas dominaron, diferencias regionales
-de mercado, y cómo una estrategia de catálogo chico pero exitoso puede superar al volumen puro.
-Incluye limpieza diferencial de nulos, agregaciones con groupby/agg y visualización en escala logarítmica.
-`Python` `Pandas` `Matplotlib` `Seaborn`
+### [EDA de Astronautas y Misiones Espaciales](https://github.com/MartinCarossino/analisis-astronautas-nasa)
+EDA sobre 1.277 misiones espaciales (1961–2019), con foco en pensamiento estadístico aplicado: una
+distribución bimodal en la duración de las misiones explicada por completo al separar por tipo (vuelo
+corto vs. estación espacial), un test de chi-cuadrado que descarta una asociación aparente entre perfil
+militar/civil y tipo de misión, y cómo el fin del programa de transbordadores de EE.UU. (2011) se
+refleja con claridad en los datos.
+`Python` `Pandas` `Seaborn` `SciPy` `Estadística aplicada`
 
 ---
 
@@ -104,6 +96,14 @@ Incluye limpieza diferencial de nulos, agregaciones con groupby/agg y visualizac
 ¿Cuánto vale un día de trabajo en nafta? Análisis del poder adquisitivo real en Argentina (2017–2026)
 cruzando datos de Secretaría de Energía, INDEC, SMVM y BCRA. El precio nominal se multiplicó por 83,
 pero en términos reales la nafta resulta más barata que hace nueve años.
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+---
+
+### [Análisis de Ventas Globales de Videojuegos](https://github.com/MartinCarossino/analisis-ventas-videojuegos)
+EDA sobre 16.000+ títulos (1980–2016): qué géneros y plataformas dominaron, diferencias regionales
+de mercado, y cómo una estrategia de catálogo chico pero exitoso puede superar al volumen puro.
+Incluye limpieza diferencial de nulos, agregaciones con groupby/agg y visualización en escala logarítmica.
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
 ---
