@@ -66,6 +66,16 @@ ORDER BY experiencia DESC;
 
 ## Proyectos destacados
 
+### [EDA de Astronautas y Misiones Espaciales](https://github.com/MartinCarossino/analisis-astronautas-nasa)
+EDA sobre 1.277 misiones espaciales (1961–2019), con foco en pensamiento estadístico aplicado: una
+distribución bimodal en la duración de las misiones explicada por completo al separar por tipo (vuelo
+corto vs. estación espacial), un test de chi-cuadrado que descarta una asociación aparente entre perfil
+militar/civil y tipo de misión, y cómo el fin del programa de transbordadores de EE.UU. (2011) se
+refleja con claridad en los datos.
+`Python` `Pandas` `Seaborn` `SciPy` `Estadística aplicada`
+
+---
+
 ### [Análisis de Películas TMDB](https://github.com/MartinCarossino/analisis-peliculas-tmdb)
 Cruce real de dos fuentes (datos financieros y reparto/equipo) sobre 4.800+ películas, con el mismo
 join verificado en pandas y en SQL puro vía SQLAlchemy. Incluye encoding categórico (OneHotEncoder,
