@@ -121,7 +121,7 @@ Incluye visualizaciones con Chart.js, análisis de Pareto por proveedor y KPIs e
 **Tecnicatura Universitaria en Programación** — UTN  
 **Diplomatura en Bases de Datos** — UTN  
 **Diplomatura en Data Engineering** — UTN  
-**Data Analytics** — UTN *(en curso)*
+**Diplomatura en Data Analytics** — Mundos E · Aval FCEFyN (UNC)
 
 ---
 
