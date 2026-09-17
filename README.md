@@ -96,7 +96,7 @@ refleja con claridad en los datos.
 ### [Índice del Tanque Lleno](https://github.com/MartinCarossino/indice-tanque-lleno)
 ¿Cuánto vale un día de trabajo en nafta? Análisis del poder adquisitivo real en Argentina (2017–2026)
 cruzando datos de Secretaría de Energía, INDEC, SMVM y BCRA. El precio nominal se multiplicó por 83,
-pero en términos reales la nafta resulta más barata que hace nueve años.
+pero el poder adquisitivo en combustible cayó un 55%: de 13 litros por día de trabajo en 2017 a 5,8 litros en 2026.
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
 ---
