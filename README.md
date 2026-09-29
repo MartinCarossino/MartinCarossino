@@ -39,6 +39,7 @@ ORDER BY experiencia DESC;
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
@@ -66,6 +67,16 @@ ORDER BY experiencia DESC;
 ---
 
 ## Proyectos destacados
+
+### [Sandbox IA](https://github.com/MartinCarossino/sandbox-ia) · [▶ Jugar](https://sandboxia.html-5.me/) · [📊 Datos en vivo](https://sandboxia.html-5.me/estadisticas.html)
+Juego de reflejos ("la IA se me fue de control") que funciona como experimento: cada reacción se guarda
+y alimenta un panel de estadísticas en vivo calculado 100% en SQL con `WITH` y funciones de ventana
+(medianas, percentiles, prueba z de Welch PC vs. celular, prueba de dos proporciones). Incluye un
+experimento A/B entre un robot aleatorio y uno adaptativo que aprende del jugador, aleatoriedad
+reproducible por semilla (distribución exponencial) y validación del lado del servidor contra trampas.
+`PHP` `MariaDB` `SQL` `JavaScript` `POO` `Estadística aplicada` `Pruebas de hipótesis`
+
+---
 
 ### [Scoring de Riesgo Crediticio](https://github.com/MartinCarossino/scoring-riesgo-crediticio)
 Modelo de regresión logística para predecir el riesgo de default en clientes de tarjetas de crédito (dataset UCI, 30.000 clientes).
