@@ -68,6 +68,17 @@ ORDER BY experiencia DESC;
 
 ## Proyectos destacados
 
+### [El pulso del AMBA](https://github.com/MartinCarossino/pulso-amba-sube) · [▶ Abrir en Colab](https://colab.research.google.com/github/MartinCarossino/pulso-amba-sube/blob/main/pulso_amba.ipynb)
+Análisis de 1,5 millones de registros de los datos abiertos de la SUBE (2024–2026) con un modelo de datos
+en DuckDB donde cada cifra publicada se recalcula y se controla antes de mostrarse (66 de 66 controles).
+De enero a agosto de 2026, el AMBA viajó un 12% menos que en 2025; contrastado con los informes del Banco
+Central, el pago con QR compensó casi 4 de cada 10 viajes que perdió la tarjeta SUBE (enero a abril).
+Resuelve problemas de la fuente (123.437 viajes contados dos veces, un traspaso de jurisdicción y fusiones
+de líneas) e incluye una prueba de sensibilidad y una bitácora de verificación pública.
+`Python` `DuckDB` `SQL` `Pandas` `Matplotlib` `Calidad de datos`
+
+---
+
 ### [Sandbox IA](https://github.com/MartinCarossino/sandbox-ia) · [▶ Jugar](https://sandboxia.html-5.me/) · [📊 Datos en vivo](https://sandboxia.html-5.me/estadisticas.html)
 Juego de reflejos ("la IA se me fue de control") que funciona como experimento: cada reacción se guarda
 y alimenta un panel de estadísticas en vivo calculado 100% en SQL con `WITH` y funciones de ventana
